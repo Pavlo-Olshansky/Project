@@ -2,6 +2,14 @@
 
 <h3>English</h3>
 
+The main goal of our project - is creation software that helps anyone makes alcoholic cocktails and pick up your budget without harm for their budjet. 
+
+On our site you can choose your favourite ingredient that would be present in cocktails. 
+
+So now it won't be difficult to organize parties or cool events. 
+
+<i>You can create cocktails at home or on vacation with friends!</i>
+
 <h3>Українська</h3>
 
 Основна мета нашого проекту - це створити програмне забезпечення, яке допоможе створити будь-кому алкогольні коктейі й підібрати коктейлі під свій бюджет. 
