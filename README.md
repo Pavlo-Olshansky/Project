@@ -26,3 +26,5 @@ So now it won't be difficult to organize parties or cool events.
 
 #UML-Diagram
 
+
+![uml](https://cloud.githubusercontent.com/assets/16356247/15211879/6eb6a92c-1846-11e6-9ffb-b02bdddf072d.png)
