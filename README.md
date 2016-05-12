@@ -22,7 +22,7 @@ So now it won't be difficult to organize parties or cool events.
 #Authors
     1. Olshansky P.R. (Ольшанський П.Р.)
     2. Bass I.K. (Бас І.К.)
-    3. Efimov A. (Єфімов А.)
+    3. Yefimov A. (Єфімов А.)
 
 #UML-Diagram
 
