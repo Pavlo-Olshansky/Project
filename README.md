@@ -1,8 +1,7 @@
-# 
-
+<h2><center> Description </center></h2>
 <h3>English</h3>
 
-The main goal of our project - is creation software that helps anyone makes alcoholic cocktails and pick up your budget without harm for their budjet. 
+The main goal of our project - is creation software that helps anyone makes alcoholic cocktails without harm for their budjet. 
 
 On our site you can choose your favourite ingredient that would be present in cocktails. 
 
