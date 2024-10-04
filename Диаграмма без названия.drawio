@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.17">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="954" dy="615" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="954" dy="615" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -14,13 +14,16 @@
           <mxGeometry x="170" y="909" width="100" height="80" as="geometry" />
         </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-7" value="L3 додають/змінюють послугу" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;arcSize=50;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="320" y="929" width="120" height="40" as="geometry" />
+          <mxGeometry x="311" y="929" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-11" value="Реліз завершено" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#d5e8d4;strokeColor=#82b366;arcSize=50;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="110" y="1129" width="220" height="40" as="geometry" />
+          <mxGeometry x="110" y="1123" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="s0nt7Aq3KIIKUUwxxp6X-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-12" target="WIyWlLk6GJQsqaUBKTNV-7">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-12" value="L3 додають/змінюють протокол" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;arcSize=50;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="320" y="1039" width="120" height="40" as="geometry" />
+          <mxGeometry x="309.5" y="1039" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Osnuod3J5iWucl8Khhn1-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Osnuod3J5iWucl8Khhn1-0" target="Osnuod3J5iWucl8Khhn1-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -56,14 +59,14 @@
           <mxGeometry x="120" y="589" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Osnuod3J5iWucl8Khhn1-20" value="Так" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Osnuod3J5iWucl8Khhn1-9" target="WIyWlLk6GJQsqaUBKTNV-12" edge="1">
-          <mxGeometry y="10" relative="1" as="geometry">
+          <mxGeometry x="-0.2911" y="17" relative="1" as="geometry">
             <mxPoint as="offset" />
             <mxPoint x="230" y="1089" as="sourcePoint" />
             <mxPoint x="230" y="1119" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Osnuod3J5iWucl8Khhn1-21" value="Так" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-6" target="WIyWlLk6GJQsqaUBKTNV-7" edge="1">
-          <mxGeometry y="10" relative="1" as="geometry">
+          <mxGeometry x="-0.2683" y="16" relative="1" as="geometry">
             <mxPoint as="offset" />
             <mxPoint x="280" y="1159" as="sourcePoint" />
             <mxPoint x="340" y="1159" as="targetPoint" />
@@ -108,8 +111,8 @@
           <mxGeometry x="170" y="709" width="100" height="80" as="geometry" />
         </mxCell>
         <mxCell id="s0nt7Aq3KIIKUUwxxp6X-8" value="Так" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="s0nt7Aq3KIIKUUwxxp6X-7" target="s0nt7Aq3KIIKUUwxxp6X-4">
-          <mxGeometry x="-1" y="94" relative="1" as="geometry">
-            <mxPoint x="-14" y="-50" as="offset" />
+          <mxGeometry x="-1" y="82" relative="1" as="geometry">
+            <mxPoint x="-19" y="-52" as="offset" />
             <mxPoint x="280" y="899" as="sourcePoint" />
             <mxPoint x="330" y="899" as="targetPoint" />
             <Array as="points">
@@ -118,8 +121,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="s0nt7Aq3KIIKUUwxxp6X-11" value="Відкат релізу" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="360" y="729" width="200" height="40" as="geometry" />
+        <mxCell id="s0nt7Aq3KIIKUUwxxp6X-11" value="Відкат релізу" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#f8cecc;strokeColor=#b85450;arcSize=50;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="308" y="729" width="123" height="40" as="geometry" />
         </mxCell>
         <mxCell id="s0nt7Aq3KIIKUUwxxp6X-13" value="Ні" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="s0nt7Aq3KIIKUUwxxp6X-7" target="s0nt7Aq3KIIKUUwxxp6X-11">
           <mxGeometry x="-1" y="-72" relative="1" as="geometry">
@@ -138,7 +141,7 @@
           <mxGeometry x="120" y="290" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="s0nt7Aq3KIIKUUwxxp6X-19" value="Так" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry y="20" relative="1" as="geometry">
+          <mxGeometry x="-0.4" y="21" relative="1" as="geometry">
             <mxPoint as="offset" />
             <mxPoint x="270" y="390" as="sourcePoint" />
             <mxPoint x="310" y="390" as="targetPoint" />
@@ -155,7 +158,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="s0nt7Aq3KIIKUUwxxp6X-24" value="Ініціювання релізу інших сервісів" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;arcSize=50;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="314" y="370" width="200" height="40" as="geometry" />
+          <mxGeometry x="298" y="370" width="133" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
